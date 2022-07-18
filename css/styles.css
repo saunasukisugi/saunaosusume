@@ -201,6 +201,16 @@ h2 {
   opacity : 0.5;
 }
 
+/* shopping */
+.shopping {
+  width: 90%;
+  margin: 60px auto 0;
+}
+
+.shopping img {
+  width: 100%;
+}
+
 /* footer */
 footer {
   width: 90%;
